@@ -1,3 +1,17 @@
+# Marlin for Artillery Genius / BLTouch probe and endstop
+
+This fork is intended to be used on an Artillery Genius Printer with a BLTouch.
+
+Main resources:
+- https://github.com/artillery3d/genius-firmware
+- https://github.com/MarlinFirmware/Marlin
+- https://github.com/sebsx/Marlin
+- https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware
+- https://www.reddit.com/r/ArtilleryGenius/comments/jbiykc/bltouch_installed_and_ready_to_go/
+- https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware/issues/1228
+
+---
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
